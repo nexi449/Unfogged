@@ -9,10 +9,10 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/user/DamonQ4",
-    "issues": "https://github.com/DamonQ4/NoFog/issues",
-    "sources": "https://github.com/DamonQ4/NoFog"
+    "issues": "https://github.com/nexi449/Nofog/issues",
+    "sources": "https://github.com/nexi449/Nofog"
   },
-  "license": "MIT",
+  "license": "ARR",
   "environment": "client",
   "entrypoints": {
     "client": [
@@ -30,10 +30,10 @@
   "custom": {
     "modmenu": {
       "links": {
-        "Source": "https://github.com/DamonQ4/NoFog",
-        "Homepage": "https://github.com/DamonQ4",
-        "Issues": "https://github.com/DamonQ4/NoFog/issues",
-        "Modrinth": "https://modrinth.com/mod/nofog"
+        "Source": "https://github.com/nexi449/Nofog",
+        "My GitHub": "https://github.com/nexi449",
+        "Issues": "https://github.com/nexi449/Nofog/issues",
+        "Modrinth": "https://modrinth.com/project/unfogged"
       },
       "badges": [
         "library"
