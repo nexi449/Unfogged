@@ -1,14 +1,9 @@
-# Allgemein ignorieren
+# Alles standardmäßig ignorieren
 *
 
-# Projektdateien mit aufnehmen
-!build.gradle
-!gradle.properties
-!gradlew
-!gradlew.bat
-!settings.gradle
-!LICENSE
+# Nur den eigentlichen Source-Code und Projektinfo behalten
 !README.md
+!LICENSE
 !src/
 !src/**
 !src/main/
@@ -22,11 +17,8 @@
 !src/main/resources/fabric.mod.json
 !src/main/resources/fogchanger.mixins.json
 !src/main/resources/icon.png
-!gradle/
-!gradle/**
 
-# Generierte bzw. lokale Dateien ignorieren
-!.gitignore
+# Lokale und generierte Dateien ignorieren
 .gradle/
 build/
 bin/
