@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "nofog",
+  "version": "${version}",
+  "name": "NoFog",
+  "description": "Disables Fog rendering.",
+  "authors": [
+    "DamonQ4"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/user/DamonQ4",
+    "issues": "https://github.com/DamonQ4/NoFog/issues",
+    "sources": "https://github.com/DamonQ4/NoFog"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.fogchanger.FogChangerMod"
+    ]
+  },
+  "mixins": [
+    "fogchanger.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.1 <=1.21.11",
+    "java": ">=21"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Source": "https://github.com/DamonQ4/NoFog",
+        "Homepage": "https://github.com/DamonQ4",
+        "Issues": "https://github.com/DamonQ4/NoFog/issues",
+        "Modrinth": "https://modrinth.com/mod/nofog"
+      },
+      "badges": [
+        "library"
+      ]
+    }
+  }
+}

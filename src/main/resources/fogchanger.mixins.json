@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.fogchanger.mixin",
+  "compatibilityLevel": "JAVA_26",
+  "client": [
+    "BackgroundRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
