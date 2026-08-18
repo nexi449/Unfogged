@@ -9,8 +9,8 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/user/DamonQ4",
-    "issues": "https://github.com/nexi449/Nofog/issues",
-    "sources": "https://github.com/nexi449/Nofog"
+    "issues": "https://github.com/nexi449/Unfogged/issues",
+    "sources": "https://github.com/nexi449/Unfogged"
   },
   "license": "ARR",
   "environment": "client",
@@ -30,9 +30,9 @@
   "custom": {
     "modmenu": {
       "links": {
-        "Source": "https://github.com/nexi449/Nofog",
+        "Source": "https://github.com/nexi449/Unfogged",
         "My GitHub": "https://github.com/nexi449",
-        "Issues": "https://github.com/nexi449/Nofog/issues",
+        "Issues": "https://github.com/nexi449/Unfogged/issues",
         "Modrinth": "https://modrinth.com/project/unfogged"
       },
       "badges": [
